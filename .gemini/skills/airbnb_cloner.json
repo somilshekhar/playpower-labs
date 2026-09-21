@@ -1,0 +1,11 @@
+{
+  "name": "airbnb-cloner-agent",
+  "description": "Sub-agent configuration for enforcing pixel-perfect UI reproduction, visual parity, keyboard accessibility, and state management.",
+  "version": "1.0.0",
+  "rules": [
+    "Ensure 100% parity with reference structure code and design tokens.",
+    "Support full keyboard navigation for modals and Lightbox (Escape, ArrowLeft, ArrowRight).",
+    "Use Framer Motion and smooth CSS transitions for overlay views.",
+    "Validate responsive breakpoints for desktop listing layout."
+  ]
+}

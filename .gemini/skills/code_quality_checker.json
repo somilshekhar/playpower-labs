@@ -1,0 +1,11 @@
+{
+  "name": "code-quality-checker",
+  "description": "Sub-agent configuration for auditing JSX structure, ARIA accessibility attributes, and performance optimization.",
+  "version": "1.0.0",
+  "checks": [
+    "Verify clean component separation and reusable prop interfaces.",
+    "Ensure accessible aria-modal and aria-label attributes on dialog elements.",
+    "Optimize image asset loading with aspect ratio placeholders.",
+    "Validate build process with zero lint warnings or compiler errors."
+  ]
+}
